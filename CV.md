@@ -5,7 +5,7 @@
 + _**Email:**_ Kopylov.roman@skif.by
 + _**GitHub:**_ [RomanKopp](https://github.com/RomanKopp)
 ## **About Me**
-
+Graduated from vitebsk state university of pm masherov with a (bachelor) degree in applied computer science: web development and design. After that i've been working in the area of personnel management and now i'm looking forward to improve myself as a web developer.
 # **Skills**
 + C#
 + HTML
